@@ -1,0 +1,37 @@
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: inline;
+    padding: 15px;
+}
+header{
+    text-align: center;
+    background-color: rgb(27, 27, 240);
+    padding: 10px 0;
+    color: white;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+
+}
+.profile img{
+    width: 170px;
+    border-radius: 50%;
+}
+.profile p{
+    line-height: 10;
+    font-size: 15px;
+}
+.profile{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+footer{
+    text-align: center;
+    background-color: rgb(164, 153, 156);
+    line-height: 40px;
+}
