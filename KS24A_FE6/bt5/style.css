@@ -1,0 +1,41 @@
+header{
+    justify-content: space-between;
+    background-color: green;
+    color: white;
+    margin: -8px;
+}
+header p{
+    margin-top: 30px;
+    margin-right: 10px;
+}
+main{
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    margin-top: -20px;
+    background-color: aquamarine;
+    padding-bottom: 30px;
+}
+nav ul li{
+    padding: 20px 30px;
+    margin-bottom: 20px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    background-color: antiquewhite;
+    color: black;
+    display: flex;
+}
+footer{
+    text-align: center;
+    background-color: rgb(120, 115, 106);
+    padding: 50px 50px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: blue;
+}
